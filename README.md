@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## About Me
+I’m **Ruben Perez**, a B.S. Computer Science ’26 student at FIU.  
+As an undergraduate TA and former software-engineering intern, I build full-stack apps and ML pipelines, and I’m passionate about AI-driven solutions.  
+
 <!--
 **RubP04/RubP04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
