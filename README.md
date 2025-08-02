@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About Me
+### About Me
 I’m **Ruben Perez**, a B.S. Computer Science ’26 student at FIU.  
 As an undergraduate TA and former software-engineering intern, I build full-stack apps and ML pipelines, and I’m passionate about AI-driven solutions.  
 
